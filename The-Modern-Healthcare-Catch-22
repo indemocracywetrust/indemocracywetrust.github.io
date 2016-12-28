@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="The Modern Healthcare Catch 22" />
+
+    <title>My American Healthecare Anecdote</title>
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C700" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/bootstrap-social.css" rel="stylesheet">
+
+    <!-- Styles -->
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Loading bar -->
+    <script src="js/pace.min.js"></script>
+
+    <!-- HTML5 shiv for IE8 support -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div id="primary" class="col-sm-12">
+      <div class="content">
+
+        <header class="header">
+          <hgroup class="pull-left">
+            <span class="site-title">
+              <a rel="home" href="index.html">
+                In Democracy We Trust
+              </a>
+            </span>
+          </hgroup>
+          <div id="togglesidebar" class="btn btn-primary pull-right">
+            <i class="fa fa-bars"></i>
+          </div>
+        </header> <!-- /header -->
+
+        <section class="post">
+          <header class="entry-header">
+            <h1 class="entry-title">The Modern Healthcare Catch 22</h1>
+            <p class="entry-meta">
+              Posted on December 25, 2016
+            </p>
+          </header>
+          <div class="entry-description">
+            <p>
+              Here's a "Catch 22" that might help illustrate one of many reasons for an available-for-all healthcare system.
+            </p>
+            <p>
+              I was born with a bad ureter on my right side. It's the tube that connects the bladder with the kidney. If 
+              I were born just a 100 years ago, I would have eventually died from some kind of kidney complication as the 
+              kidney couldn't pass urine onto the bladder as it should. And that's not good (trust me). Luckily, my mother was 
+              a full-time employee and had insurance provided as a benefit by her employer. 
+              And so the surgeon fixed the ureter and I 
+              no longer suffer any more pain from it.
+            </p>
+            
+            <p>
+               The Catch 22 (ie. you're screwed if you do, screwed if you don't) is that I didn't choose to have a faulty 
+               ureter. But I also didn't choose to be born in a country with outrageously expensive health care. Without 
+               insurance, the surgery, doctor visits, pain medication, etc would have bankrupted my single-parent househould. 
+               You either suffer the health consequences or the economic consequences&mdash;your choice.
+            </p>
+            
+            <p>
+              Insurance can prevent the Catch 22. 
+              Being born during modern times means that you inherited a risky life and an expensive society.
+            </p>
+            <p>
+              Now, congenital issues, tragic accidents, catastophes are only some of the health issues we face. 
+              And certainly
+            </p>
+            <p>
+              
+            </p>
+            
+            <p>
+              Thoughts? chris@indemocracywetrust.com
+            </p>
+          </div>
+        </section> <!-- /.post -->
+
+            <footer class="footer">
+              <div class="socials-footer">
+                <a class="btn btn-twitter" href="https://twitter.com/InDemWeTrust" title="Twitter">
+                  <i class="fa fa-twitter"></i>
+                </a>
+            
+              </div> <!-- /.socials-footer -->
+            </footer> <!-- /footer -->
+
+          </div>
+        </div> <!-- /#primary -->
+
+        <!-- Scripts -->
+        <script src="js/jquery-1.11.0.min.js"></script>
+        <script src="js/custom.js"></script>
+
+      </body>
+    </html>
